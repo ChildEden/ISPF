@@ -1,0 +1,12 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+scipy
+einops
+termcolor
+kornia
+pillow
+tqdm
+tensorboard
