@@ -41,7 +41,13 @@ The code was developed based on the [CMI code](https://github.com/zju-vipa/CMI) 
 ## Citation
 
 ```
-@inproceedings{  
-
+@inproceedings{zhang2025toward,
+  title={Toward Efficient Data-Free Unlearning},
+  author={Zhang, Chenhao and Shen, Shaofei and Chen, Weitong and Xu, Miao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={21},
+  pages={22372--22379},
+  year={2025}
 }
 ```
